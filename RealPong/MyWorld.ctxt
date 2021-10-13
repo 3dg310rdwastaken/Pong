@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ p1Score()
+comment2.text=\r\n\ Tells\ Player\ 1's\ counter\ to\ add\ 1\ to\ its\ score\ display.\r\n
+comment3.params=
+comment3.target=void\ p2Score()
+comment3.text=\r\n\ Tells\ Player\ 2's\ counter\ to\ add\ 1\ to\ its\ score\ display.\r\n
+comment4.params=
+comment4.target=void\ resetScores()
+comment4.text=\r\n\ Resets\ displayed\ scores\ after\ someone\ wins.\r\n
+comment5.params=
+comment5.target=void\ stopped()
+comment5.text=\r\n\ Stops\ the\ music\ when\ the\ game\ is\ paused.\r\n
+numComments=6

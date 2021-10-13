@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Paddle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=upKey\ downKey\ boostKey
+comment1.target=Paddle(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ paddles.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ setPaddle()
+comment3.text=\r\n\ Sets\ the\ objects\ image\ to\ the\ paddle.\r\n
+comment4.params=
+comment4.target=void\ checkForKeys()
+comment4.text=\r\n\ Checks\ for\ assigned\ keys\ to\ allow\ both\ paddles\ to\ move\ up,\ move\ down,\r\n\ or\ boost.\r\n
+numComments=5

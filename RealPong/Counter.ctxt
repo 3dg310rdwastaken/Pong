@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Counter\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ Constructor\ for\ Counter\ class\ objects.\r\n
+comment2.params=
+comment2.target=void\ addScore()
+comment2.text=\r\n\ Adds\ 1\ to\ the\ "score"\ variable.\r\n
+comment3.params=
+comment3.target=void\ resetScore()
+comment3.text=\r\n\ Sets\ the\ score\ to\ zero\ after\ somebody\ wins.\r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ Sets\ the\ counter's\ image\ to\ keep\ up\ to\ date\ with\ the\ internal\ score.\r\n
+numComments=5
